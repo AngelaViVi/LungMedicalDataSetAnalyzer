@@ -36,6 +36,9 @@
     <ClCompile Include="Analyzer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Series.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="Analyzer.h">
@@ -54,5 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="LungAnalyzer.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Series.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
