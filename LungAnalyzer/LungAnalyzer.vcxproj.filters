@@ -33,17 +33,17 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LungAnalyzer.cpp">
+    <ClCompile Include="Analyzer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="LungAnalyzer.h">
+    <QtMoc Include="Analyzer.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="LungAnalyzer.ui">
+    <QtUic Include="Analyzer.ui">
       <Filter>Form Files</Filter>
     </QtUic>
   </ItemGroup>
